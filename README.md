@@ -1,5 +1,9 @@
 # React + Vite
 
+Para correr la app es entrar con el cmd o la terminal del editor de codigo se ubican en el origen del proyecto y corren 
+
+Npm run dev para poder verificar el funcionamiento del programa
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
